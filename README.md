@@ -30,5 +30,5 @@ The project uses a Random Forest classifier on a mobile phone price classificati
   This project is for educational purposes as part of a Master's lab assignment.
 
 # Contact ✉️
- • **Email:** wissambadia4@gmail.com
- • **LinkedIn:** [Badia Ouissam Lakas](linkedin.com/in/badia-ouissam-lakas-a66a28214) 
+- **Email:** wissambadia4@gmail.com
+- **LinkedIn:** [Badia Ouissam Lakas](linkedin.com/in/badia-ouissam-lakas-a66a28214) 
